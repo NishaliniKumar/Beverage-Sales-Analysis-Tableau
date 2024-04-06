@@ -20,10 +20,6 @@ This project involved the analysis of caffeinated beverage sales data using Tabl
 ## Usage
 - Open Tableau and import the provided dataset.
 - Load the Tableau workbook from the repository.
-  
-## Screenshots
-![Dashboard 1](/Beverage-Sales-Analysis-Tableau/Screenshot 2024-04-06 101959.png)
-![Dashboard 2](/screenshots/dashboard2.png)
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
